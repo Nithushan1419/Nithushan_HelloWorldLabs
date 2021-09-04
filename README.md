@@ -1,2 +1,3 @@
 # Nithushan_HelloWorldLabs
-Sample 
+Sample repository to store assembly codes
+
